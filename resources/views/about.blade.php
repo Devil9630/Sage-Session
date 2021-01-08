@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
+<a href="127.0.0.1:/About"></a>
 <h1>Hello to About Page</h1>
 
 </body>

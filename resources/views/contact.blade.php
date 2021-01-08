@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
+<a href="127.0.0.1:/contact"></a>
 <h1>This is contact page</h1>
 
 </body>
